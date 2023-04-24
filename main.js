@@ -5,6 +5,7 @@ class persona{
     }
 } 
 
+
 // le doy un class con el objeto que valla a describir
 class auto {
     constructor(marca,placa,propietario){
